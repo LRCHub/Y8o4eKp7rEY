@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Orangestar - ノクティルーカ (feat. IA) Music Video",
+  "base_artist": "Orangestar",
+  "createdAt": "2026-01-10T19:31:37.242460Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Orangestar - Alice in 冷凍庫 (feat. IA) Official Video",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/01_Orangestar_-_Alice_in_冷凍庫_(feat._IA)_Official_Video_Orangestar.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Orangestar - DAYBREAK FRONTLINE (feat. IA) Official Video",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/02_Orangestar_-_DAYBREAK_FRONTLINE_(feat._IA)_Official_Video_Orangestar.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Orangestar - Nadir (feat. IA) Official Video",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/03_Orangestar_-_Nadir_(feat._IA)_Official_Video_Orangestar.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Orangestar - Henceforth (feat. IA) Official Video",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/04_Orangestar_-_Henceforth_(feat._IA)_Official_Video_Orangestar.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Orangestar - Surges (feat. 夏背 & ルワン) / カロリーメイト web movie",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/05_Orangestar_-_Surges_(feat._夏背_&_ルワン)___カロリーメイト_web_movie_Orangestar.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ノクティルーカ",
+      "artist": "Orangestar, IA",
+      "has_synced": false,
+      "path": "select/pl_01_ノクティルーカ_Orangestar,_IA.txt"
+    }
+  ]
+}
